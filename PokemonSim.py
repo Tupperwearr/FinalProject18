@@ -24,11 +24,11 @@ class Pokemon:
     self.status = status
 def damage ():
   if move.atktype = phys:
-    damagephys = ((((((((42)*chosenmove.power)*(self.atk/opponent.defs))/50)+2)*random.randfloat(.88,1.12))
+    damagephys = ((((((((42)*chosenmove.power)*(self.atk/opponent.defs))/50)+2)*random.randuniform(.88,1.12))
     if self.status = brn:
       newdamagephys = damagephys/2
   elif move.atktype = spec:
-   damagespec = ((((((((42)*chosenmove.power)*(self.spatk/opponent.spdef))/50)+2)*random.randfloat(.88,1.12))
+   damagespec = ((((((((42)*chosenmove.power)*(self.spatk/opponent.spdef))/50)+2)*random.randuniform(.88,1.12))
   else:
     dmg = 0
 
