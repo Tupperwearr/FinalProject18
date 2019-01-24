@@ -1,0 +1,23 @@
+WigglyTuff
+170
+71
+N
+Hyper Voice
+Dazzling Gleam
+Fire Blast
+Nasty Plot
+170
+wigglytuffFront.png
+wigglytuffBack.png
+
+##############
+####Usage#####
+1. name
+2. health
+3. speed
+4. type
+5. move1
+6. move2
+7. move3
+8. move4
+9. maxHP

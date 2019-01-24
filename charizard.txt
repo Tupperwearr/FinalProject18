@@ -1,0 +1,23 @@
+Charizard
+108
+131
+F
+Fire Blast
+Nasty Plot
+Focus Blast
+Flamethrower
+108
+charmanderFront.png
+charmanderBack.png
+
+##############
+####Usage#####
+1. name
+2. health
+3. speed
+4. type
+5. move1
+6. move2
+7. move3
+8. move4
+9. maxHP

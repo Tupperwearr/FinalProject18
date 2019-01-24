@@ -1,0 +1,23 @@
+Venusaur
+110
+111
+G
+Hidden Power Fire
+Leaf Storm
+Sludge Bomb
+Growth
+110
+bulbasaurFront.png
+bulbasaurBack.png
+
+##############
+####Usage#####
+1. name
+2. health
+3. speed
+4. type
+5. move1
+6. move2
+7. move3
+8. move4
+9. maxHP
